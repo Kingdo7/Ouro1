@@ -3,12 +3,14 @@
 /img
 /movies
 /save
+/RESSOURCES
 
 .git
 .gitignore
 .xcf
 .7z
 .txt
+.odt
 Game.rpgproject
 index.html
 
