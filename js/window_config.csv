@@ -1,6 +1,6 @@
 Window Name,Image Name (in System folder), Window Opacity,Scene Name (optional),Attribute Name (optional)
 Window_Help,,0,,
-Window_Gold,Menu_Gold,0,,
+Window_Gold,bg_menuGold,0,,
 Window_MenuCommand,Menu_base,0,,
 Window_MenuStatus,,0,,
 Window_MenuActor,,255,,
