@@ -4232,9 +4232,17 @@ class Scene_GamepadConfig_V8 extends Scene_MenuBaseMVMZ{
     }
 
     create(){
+        this.createBackground();
         super.create();
         this.createAllWindows();
     }
+
+    createBackground() {
+        console.log(setting.gamepadBackground);
+        this._sprite_background = new Sprite(ImageManager.loadBitmap('img/title1/',setting.gamepadBackground));
+        this.addChild(this._sprite_background);
+    }
+    
     createAllWindows(){
         this.createHelpWindow();
         this.createGamepadWindow();
@@ -4823,7 +4831,7 @@ class Key_Command extends Key_Base{
 }
 //TODO:ゲームパッドのボタン配置切り換え…というか、ハードメーカー別の対応
 function createButtonLayoutChangeCommand(){
-    const mText = new MultiLanguageText("Change button notation","ボタン表記変更");
+    const mText = new MultiLanguageText("Changer manette","ボタン表記変更");
     const command = new Key_Command("ButtonLayout",mText,3);
     return command;
 }
