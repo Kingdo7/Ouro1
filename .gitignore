@@ -4,6 +4,8 @@
 /movies
 /save
 /RESSOURCES
+/Screenshot
+/zzz_fichiers_autres
 
 .git
 .gitignore
@@ -13,4 +15,7 @@
 .odt
 Game.rpgproject
 index.html
+
+Ouroboros.7z
+Crédits.odt
 
