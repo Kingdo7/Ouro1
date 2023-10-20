@@ -5,6 +5,9 @@
 /save
 /RESSOURCES
 /Screenshot
+/ScreenShots
+/captures
+/Files
 /zzz_fichiers_autres
 
 .git
@@ -13,6 +16,8 @@
 .7z
 .txt
 .odt
+.png
+.jpeg
 Game.rpgproject
 index.html
 
