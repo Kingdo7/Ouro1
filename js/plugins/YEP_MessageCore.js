@@ -41,6 +41,12 @@ Yanfly.Message.version = 1.19;
  *
  * @param Fast Forward Key
  * @parent ---General---
+ * @type combo
+ * @option tab
+ * @option shift
+ * @option control
+ * @option pageup
+ * @option pagedown
  * @desc This is the key used for fast forwarding.
  * @default pagedown
  *
@@ -497,7 +503,7 @@ Yanfly.Param.MSGFontSize = Number(Yanfly.Parameters['Font Size']);
 Yanfly.Param.MSGFontSizeChange = String(Yanfly.Parameters['Font Size Change']);
 Yanfly.Param.MSGFontChangeMax = String(Yanfly.Parameters['Font Changed Max']);
 Yanfly.Param.MSGFontChangeMin = String(Yanfly.Parameters['Font Changed Min']);
-Yanfly.Param.MSGFontOutline = Number(Yanfly.Parameters['Font Outline']) || 4;
+Yanfly.Param.MSGFontOutline = Number(Yanfly.Parameters['Font Outline']);
 Yanfly.Param.MSGFontMaintain = eval(String(Yanfly.Parameters['Maintain Font']));
 
 Yanfly.Param.MSGNameBoxBufferX = String(Yanfly.Parameters['Name Box Buffer X']);
@@ -687,7 +693,7 @@ Window_Base.prototype.resetFontSettings = function() {
     Yanfly.Message.Window_Base_resetFontSettings.call(this);
     this.contents.fontBold = false;
     this.contents.fontItalic = false;
-    this.contents.outlineColor = 'rgba(225, 225, 225, 0.5)';
+    this.contents.outlineColor = 'rgba(0, 0, 0, 0.5)';
     this.contents.outlineWidth = $gameSystem.getMessageFontOutline();
 };
 
