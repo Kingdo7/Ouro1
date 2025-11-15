@@ -3,15 +3,26 @@ null,
 {"id":1,"expanded":true,"name":"Title_screen","order":3,"parentId":49,"scrollX":1139,"scrollY":641},
 {"id":2,"expanded":false,"name":"Discours","order":2,"parentId":49,"scrollX":728,"scrollY":406.22222222222223},
 {"id":3,"expanded":true,"name":"Administration D RDC","order":23,"parentId":60,"scrollX":1494,"scrollY":1909.5},
+<<<<<<< HEAD
 {"id":4,"expanded":true,"name":"Test chara","order":7,"parentId":5,"scrollX":811,"scrollY":983},
 {"id":5,"expanded":false,"name":"Test system","order":5,"parentId":0,"scrollX":1366.8,"scrollY":769.1999999999999},
 {"id":6,"expanded":false,"name":"Animation charas","order":8,"parentId":5,"scrollX":811,"scrollY":503},
 {"id":7,"expanded":true,"name":"Base Map","order":13,"parentId":0,"scrollX":819,"scrollY":457},
+=======
+{"id":4,"expanded":true,"name":"Test chara","order":7,"parentId":5,"scrollX":1366.8,"scrollY":769.1999999999999},
+{"id":5,"expanded":true,"name":"Test system","order":5,"parentId":0,"scrollX":1366.8,"scrollY":769.1999999999999},
+{"id":6,"expanded":false,"name":"Animation charas","order":8,"parentId":5,"scrollX":811,"scrollY":503},
+{"id":7,"expanded":true,"name":"Base Map","order":13,"parentId":0,"scrollX":1366.8,"scrollY":769.1999999999999},
+>>>>>>> d2f7ea8d126481192ab42e887f14d6a99bec9b74
 {"id":8,"expanded":true,"name":"Vice principal G","order":42,"parentId":59,"scrollX":498,"scrollY":636.5},
 {"id":9,"expanded":false,"name":"Eglise","order":99,"parentId":7,"scrollX":1306.6666666666667,"scrollY":4446.666666666667},
 {"id":10,"expanded":true,"name":"SS Bat Principal","order":114,"parentId":66,"scrollX":3053.3333333333335,"scrollY":1610},
 {"id":11,"expanded":true,"name":"Chambre directeur","order":90,"parentId":133,"scrollX":982.8,"scrollY":577.1999999999999},
+<<<<<<< HEAD
 {"id":12,"expanded":true,"name":"Chambre Emma","order":71,"parentId":97,"scrollX":728,"scrollY":406.22222222222223},
+=======
+{"id":12,"expanded":true,"name":"Chambre Emma","order":71,"parentId":97,"scrollX":597.6,"scrollY":763.8},
+>>>>>>> d2f7ea8d126481192ab42e887f14d6a99bec9b74
 {"id":13,"expanded":true,"name":"Chambre Chris","order":70,"parentId":97,"scrollX":819,"scrollY":457},
 {"id":14,"expanded":false,"name":"Jardin G","order":15,"parentId":87,"scrollX":1952.5714285714284,"scrollY":1098.857142857143},
 {"id":15,"expanded":true,"name":"Classes G","order":33,"parentId":32,"scrollX":498,"scrollY":636.5},
@@ -42,13 +53,21 @@ null,
 {"id":40,"expanded":true,"name":"2D5","order":55,"parentId":34,"scrollX":832,"scrollY":640},
 {"id":41,"expanded":false,"name":"2D4","order":54,"parentId":34,"scrollX":832,"scrollY":640},
 {"id":42,"expanded":false,"name":"2D3","order":53,"parentId":34,"scrollX":832,"scrollY":640},
+<<<<<<< HEAD
 {"id":43,"expanded":false,"name":"Dortoir Profs","order":78,"parentId":7,"scrollX":1357.2,"scrollY":3310.7999999999997},
+=======
+{"id":43,"expanded":false,"name":"Dortoir Profs","order":78,"parentId":7,"scrollX":1357.2,"scrollY":2182.7999999999997},
+>>>>>>> d2f7ea8d126481192ab42e887f14d6a99bec9b74
 {"id":44,"expanded":true,"name":"Chambre Charles","order":92,"parentId":133,"scrollX":1366.8,"scrollY":769.1999999999999},
 {"id":45,"expanded":true,"name":"2G7","order":65,"parentId":35,"scrollX":832,"scrollY":640},
 {"id":46,"expanded":true,"name":"2G6","order":64,"parentId":35,"scrollX":832,"scrollY":640},
 {"id":47,"expanded":true,"name":"2G5","order":63,"parentId":35,"scrollX":832,"scrollY":640},
 {"id":48,"expanded":true,"name":"Arumrerie_back","order":108,"parentId":98,"scrollX":490,"scrollY":803.5},
+<<<<<<< HEAD
 {"id":49,"expanded":false,"name":"Start","order":1,"parentId":0,"scrollX":1366.8,"scrollY":769.1999999999999},
+=======
+{"id":49,"expanded":true,"name":"Start","order":1,"parentId":0,"scrollX":597.6,"scrollY":763.8},
+>>>>>>> d2f7ea8d126481192ab42e887f14d6a99bec9b74
 {"id":50,"expanded":false,"name":"2G4","order":62,"parentId":35,"scrollX":832,"scrollY":640},
 {"id":51,"expanded":true,"name":"Bureau principal 1er","order":45,"parentId":59,"scrollX":832,"scrollY":640},
 {"id":52,"expanded":true,"name":"Armurerie_forge","order":109,"parentId":98,"scrollX":498,"scrollY":636.5},
@@ -60,22 +79,39 @@ null,
 {"id":58,"expanded":false,"name":"2G1","order":59,"parentId":35,"scrollX":498,"scrollY":636.5},
 {"id":59,"expanded":false,"name":"Bureau 1er","order":41,"parentId":96,"scrollX":498,"scrollY":636.5},
 {"id":60,"expanded":false,"name":"Admin RDC","order":21,"parentId":96,"scrollX":1494,"scrollY":1909.5},
+<<<<<<< HEAD
 {"id":61,"expanded":false,"name":"Test Gameplay","order":6,"parentId":5,"scrollX":819,"scrollY":457},
 {"id":62,"expanded":true,"name":"pompe_control","order":130,"parentId":86,"scrollX":759.3333333333334,"scrollY":427.3333333333333},
 {"id":63,"expanded":true,"name":"Buanderie stock","order":106,"parentId":79,"scrollX":1139,"scrollY":641},
 {"id":64,"expanded":true,"name":"Jardin D","order":17,"parentId":87,"scrollX":811,"scrollY":1415},
 {"id":65,"expanded":true,"name":"Salle de repos D","order":48,"parentId":59,"scrollX":982.8,"scrollY":577.1999999999999},
 {"id":66,"expanded":true,"name":"Sous sol","order":113,"parentId":7,"scrollX":1893,"scrollY":2261},
+=======
+{"id":61,"expanded":false,"name":"Test Gameplay","order":6,"parentId":5,"scrollX":1366.8,"scrollY":769.1999999999999},
+{"id":62,"expanded":true,"name":"pompe_control","order":129,"parentId":86,"scrollX":759.3333333333334,"scrollY":427.3333333333333},
+{"id":63,"expanded":true,"name":"Buanderie stock","order":106,"parentId":79,"scrollX":1139,"scrollY":641},
+{"id":64,"expanded":true,"name":"Jardin D","order":17,"parentId":87,"scrollX":811,"scrollY":1415},
+{"id":65,"expanded":true,"name":"Salle de repos D","order":48,"parentId":59,"scrollX":982.8,"scrollY":577.1999999999999},
+{"id":66,"expanded":false,"name":"Sous sol","order":113,"parentId":7,"scrollX":1161,"scrollY":2727},
+>>>>>>> d2f7ea8d126481192ab42e887f14d6a99bec9b74
 {"id":67,"expanded":true,"name":"Salle de réunion G","order":44,"parentId":59,"scrollX":1139,"scrollY":641},
 {"id":68,"expanded":false,"name":"Test_conversation","order":10,"parentId":5,"scrollX":1139,"scrollY":641},
 {"id":69,"expanded":true,"name":"Dortoir","order":120,"parentId":66,"scrollX":1667,"scrollY":633},
 {"id":70,"expanded":false,"name":"Nid","order":123,"parentId":66,"scrollX":1131,"scrollY":1921},
 {"id":71,"expanded":false,"name":"Caféteriat","order":95,"parentId":7,"scrollX":498,"scrollY":628.5},
+<<<<<<< HEAD
 {"id":72,"expanded":true,"name":"Chris_prologue_start","order":145,"parentId":73,"scrollX":1242.5454545454545,"scrollY":699.2727272727273},
 {"id":73,"expanded":false,"name":"Cinematiques","order":142,"parentId":7,"scrollX":1139,"scrollY":641},
 {"id":74,"expanded":false,"name":"Infirmerie","order":110,"parentId":7,"scrollX":685.1999999999999,"scrollY":768.5999999999999},
 {"id":75,"expanded":true,"name":"Mathias_p_start","order":146,"parentId":73,"scrollX":728,"scrollY":406.22222222222223},
 {"id":76,"expanded":false,"name":"Mathias_p_start2","order":147,"parentId":75,"scrollX":1366.8,"scrollY":769.1999999999999},
+=======
+{"id":72,"expanded":true,"name":"Chris_prologue_start","order":144,"parentId":73,"scrollX":1242.5454545454545,"scrollY":699.2727272727273},
+{"id":73,"expanded":true,"name":"Cinematiques","order":141,"parentId":7,"scrollX":1139,"scrollY":641},
+{"id":74,"expanded":false,"name":"Infirmerie","order":110,"parentId":7,"scrollX":685.1999999999999,"scrollY":768.5999999999999},
+{"id":75,"expanded":true,"name":"Mathias_p_start","order":145,"parentId":73,"scrollX":1366.8,"scrollY":769.1999999999999},
+{"id":76,"expanded":false,"name":"Mathias_p_start2","order":146,"parentId":75,"scrollX":1366.8,"scrollY":769.1999999999999},
+>>>>>>> d2f7ea8d126481192ab42e887f14d6a99bec9b74
 {"id":77,"expanded":false,"name":"Librairie G RDC","order":22,"parentId":60,"scrollX":1494,"scrollY":1909.5},
 {"id":78,"expanded":false,"name":"Dortoir prof","order":126,"parentId":66,"scrollX":1357.2,"scrollY":814.8},
 {"id":79,"expanded":false,"name":"Buanderie","order":103,"parentId":7,"scrollX":498,"scrollY":636.5},
@@ -83,10 +119,17 @@ null,
 {"id":81,"expanded":true,"name":"couloir","order":112,"parentId":74,"scrollX":2278,"scrollY":1282},
 {"id":82,"expanded":false,"name":"Bureau","order":105,"parentId":80,"scrollX":498,"scrollY":636.5},
 {"id":83,"expanded":true,"name":"jardin principal","order":18,"parentId":87,"scrollX":4556,"scrollY":2564},
+<<<<<<< HEAD
 {"id":84,"expanded":false,"name":"Buanderie","order":128,"parentId":66,"scrollX":1938.8571428571427,"scrollY":1098.857142857143},
 {"id":85,"expanded":false,"name":"Port","order":124,"parentId":70,"scrollX":1952.5714285714284,"scrollY":1098.857142857143},
 {"id":86,"expanded":false,"name":"Pompe SS1","order":129,"parentId":84,"scrollX":1952.5714285714284,"scrollY":1098.857142857143},
 {"id":87,"expanded":false,"name":"Academi ext","order":14,"parentId":7,"scrollX":2262,"scrollY":1998},
+=======
+{"id":84,"expanded":false,"name":"Buanderie","order":127,"parentId":66,"scrollX":1508,"scrollY":1164},
+{"id":85,"expanded":false,"name":"Port","order":123,"parentId":70,"scrollX":1952.5714285714284,"scrollY":1098.857142857143},
+{"id":86,"expanded":false,"name":"Pompe SS1","order":128,"parentId":84,"scrollX":1952.5714285714284,"scrollY":1098.857142857143},
+{"id":87,"expanded":false,"name":"Academi ext","order":14,"parentId":7,"scrollX":1357.2,"scrollY":4635.599999999999},
+>>>>>>> d2f7ea8d126481192ab42e887f14d6a99bec9b74
 {"id":88,"expanded":true,"name":"Cuisine","order":96,"parentId":71,"scrollX":498,"scrollY":628.5},
 {"id":89,"expanded":false,"name":"Pompe SS2","order":131,"parentId":84,"scrollX":1952.5714285714284,"scrollY":1098.857142857143},
 {"id":90,"expanded":true,"name":"Bureau principal D","order":46,"parentId":59,"scrollX":759.3333333333334,"scrollY":427.3333333333333},
@@ -95,14 +138,24 @@ null,
 {"id":93,"expanded":false,"name":"Sortie","order":66,"parentId":96,"scrollX":1109,"scrollY":628.5},
 {"id":94,"expanded":false,"name":"Peinture","order":137,"parentId":53,"scrollX":1139,"scrollY":641},
 {"id":95,"expanded":false,"name":"Toilette ","order":67,"parentId":93,"scrollX":1357.2,"scrollY":2302.7999999999997},
+<<<<<<< HEAD
 {"id":96,"expanded":false,"name":"Batiment principal","order":20,"parentId":7,"scrollX":1745,"scrollY":4407},
 {"id":97,"expanded":false,"name":"Dortoir Eleves","order":69,"parentId":7,"scrollX":1745,"scrollY":736},
+=======
+{"id":96,"expanded":false,"name":"Batiment principal","order":20,"parentId":7,"scrollX":1744.8,"scrollY":4285.8},
+{"id":97,"expanded":true,"name":"Dortoir Eleves","order":69,"parentId":7,"scrollX":1745,"scrollY":1567},
+>>>>>>> d2f7ea8d126481192ab42e887f14d6a99bec9b74
 {"id":98,"expanded":false,"name":"Armurerie_front","order":107,"parentId":7,"scrollX":498,"scrollY":636.5},
 {"id":99,"expanded":true,"name":"Arrière","order":100,"parentId":9,"scrollX":1328,"scrollY":1697.3333333333333},
 {"id":100,"expanded":false,"name":"Confessionnal","order":101,"parentId":9,"scrollX":1328,"scrollY":1697.3333333333333},
 {"id":101,"expanded":true,"name":"Nid ext","order":98,"parentId":106,"scrollX":1328,"scrollY":1697.3333333333333},
+<<<<<<< HEAD
 {"id":102,"expanded":true,"name":"Dortoir P servant chambre","order":127,"parentId":78,"scrollX":1366.8,"scrollY":769.1999999999999},
 {"id":103,"expanded":false,"name":"Test Biblio","order":9,"parentId":5,"scrollX":819,"scrollY":457},
+=======
+{"id":102,"expanded":true,"name":"Dortoir P servant chambre","order":126,"parentId":78,"scrollX":819,"scrollY":481},
+{"id":103,"expanded":false,"name":"Test Biblio","order":9,"parentId":5,"scrollX":1366.8,"scrollY":769.1999999999999},
+>>>>>>> d2f7ea8d126481192ab42e887f14d6a99bec9b74
 {"id":104,"expanded":true,"name":"Infirmerie_int","order":111,"parentId":74,"scrollX":1250.6666666666667,"scrollY":1741.3333333333333},
 {"id":105,"expanded":false,"name":"Miroir","order":138,"parentId":53,"scrollX":1131,"scrollY":1519},
 {"id":106,"expanded":false,"name":"Nid","order":97,"parentId":7,"scrollX":1306.6666666666667,"scrollY":3924},
@@ -110,24 +163,42 @@ null,
 {"id":108,"expanded":true,"name":"Chambre Isabelle","order":91,"parentId":133,"scrollX":819,"scrollY":481},
 {"id":109,"expanded":true,"name":"Chambre Libre","order":93,"parentId":133,"scrollX":982.8,"scrollY":577.1999999999999},
 {"id":110,"expanded":true,"name":"Salle a manger 1er","order":94,"parentId":133,"scrollX":973.1999999999999,"scrollY":879.5999999999999},
+<<<<<<< HEAD
 {"id":111,"expanded":true,"name":"Mathias_cachette","order":132,"parentId":89,"scrollX":759.3333333333334,"scrollY":427.3333333333333},
 {"id":112,"expanded":true,"name":"Chambre","order":121,"parentId":69,"scrollX":1139,"scrollY":641},
 {"id":113,"expanded":false,"name":"Tests","order":11,"parentId":5,"scrollX":819,"scrollY":457},
+=======
+{"id":111,"expanded":true,"name":"Mathias_cachette","order":131,"parentId":89,"scrollX":759.3333333333334,"scrollY":427.3333333333333},
+{"id":112,"expanded":true,"name":"Chambre","order":120,"parentId":69,"scrollX":1139,"scrollY":641},
+{"id":113,"expanded":false,"name":"Tests","order":11,"parentId":5,"scrollX":1366.8,"scrollY":769.1999999999999},
+>>>>>>> d2f7ea8d126481192ab42e887f14d6a99bec9b74
 {"id":114,"expanded":true,"name":"Chambre prof 1","order":82,"parentId":132,"scrollX":832,"scrollY":640},
 {"id":115,"expanded":true,"name":"Secret","order":102,"parentId":9,"scrollX":1328,"scrollY":1697.3333333333333},
 {"id":116,"expanded":true,"name":"Attendant G","order":43,"parentId":59,"scrollX":759.3333333333334,"scrollY":427.3333333333333},
 {"id":117,"expanded":true,"name":"Attendant D","order":47,"parentId":59,"scrollX":759.3333333333334,"scrollY":427.3333333333333},
+<<<<<<< HEAD
 {"id":118,"expanded":true,"name":"traffic light","order":119,"parentId":147,"scrollX":654,"scrollY":628.5},
 {"id":119,"expanded":false,"name":"Emma_prologue_start","order":143,"parentId":73,"scrollX":811,"scrollY":1901},
+=======
+null,
+{"id":119,"expanded":false,"name":"Emma_prologue_start","order":142,"parentId":73,"scrollX":842.4,"scrollY":754.1999999999999},
+>>>>>>> d2f7ea8d126481192ab42e887f14d6a99bec9b74
 {"id":120,"expanded":true,"name":"Chambre base bas 1","order":72,"parentId":97,"scrollX":1139,"scrollY":641},
 {"id":121,"expanded":true,"name":"Chambre base bas 2","order":73,"parentId":97,"scrollX":1518.6666666666667,"scrollY":854.6666666666666},
 {"id":122,"expanded":true,"name":"Chambre Base haut 1","order":74,"parentId":97,"scrollX":759.3333333333334,"scrollY":427.3333333333333},
 {"id":123,"expanded":true,"name":"Chambre Base haut 2","order":75,"parentId":97,"scrollX":1012.4444444444445,"scrollY":569.7777777777778},
 {"id":124,"expanded":false,"name":"Test_infiltration","order":12,"parentId":113,"scrollX":1139,"scrollY":641},
+<<<<<<< HEAD
 {"id":125,"expanded":false,"name":"Choix","order":139,"parentId":53,"scrollX":1139,"scrollY":633},
 {"id":126,"expanded":true,"name":"Chambre Staff gauche","order":76,"parentId":97,"scrollX":819,"scrollY":457},
 {"id":127,"expanded":true,"name":"TP auto","order":140,"parentId":53,"scrollX":1139,"scrollY":641},
 {"id":128,"expanded":true,"name":"Journal","order":148,"parentId":0,"scrollX":1139,"scrollY":641},
+=======
+{"id":125,"expanded":false,"name":"Choix","order":138,"parentId":53,"scrollX":1139,"scrollY":633},
+{"id":126,"expanded":true,"name":"Chambre Staff gauche","order":76,"parentId":97,"scrollX":819,"scrollY":457},
+{"id":127,"expanded":true,"name":"TP auto","order":139,"parentId":53,"scrollX":1139,"scrollY":641},
+{"id":128,"expanded":true,"name":"Journal","order":147,"parentId":0,"scrollX":1139,"scrollY":641},
+>>>>>>> d2f7ea8d126481192ab42e887f14d6a99bec9b74
 null,
 {"id":130,"expanded":true,"name":"Chambre Staff gauche","order":77,"parentId":126,"scrollX":1139,"scrollY":641},
 {"id":131,"expanded":true,"name":"Dortoir Profs toits","order":79,"parentId":43,"scrollX":1101,"scrollY":473},
