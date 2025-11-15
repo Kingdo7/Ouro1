@@ -1,27 +1,68 @@
-/audio
-/icon
-/img
-/movies
-/save
-/RESSOURCES
-/Screenshot
-/ScreenShots
-/captures
-/Files
-/zzz_fichiers_autres
-/doc
+###############################
+# RPG MAKER - EXCLUSIONS
+###############################
 
-.git
-.gitignore
-.xcf
-.7z
-.txt
-.odt
-.png
-.jpeg
+# Dossiers internes que tu ne veux pas dans Git
+save/
+backup/
+doc/
+RESSOURCES/
+zzz_fichiers_autres/
+Files/
+captures/
+Screenshot/
+ScreenShots/
+
 Game.rpgproject
 index.html
 
-.7z
-.odt
 
+# Tous les assets graphiques (aucune image dans le repo)
+img/
+icon/
+audio/
+movies/
+
+###############################
+# FICHIERS TEMPORAIRES À IGNORER
+###############################
+
+# Images (peu importe où)
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.tga
+*.webp
+
+# Archives
+*.zip
+*.rar
+*.7z
+
+# Bureautique / documents perso
+*.odt
+*.doc
+*.docx
+*.xls
+*.xlsx
+*.pdf
+
+# Fichiers de travail graphiques
+*.xcf
+*.psd
+*.clip
+
+# Divers que tu ne veux pas committer par erreur
+*.txt
+*.tmp
+*.bak
+*.old
+
+###############################
+# OS & IDE
+###############################
+
+.DS_Store
+Thumbs.db
