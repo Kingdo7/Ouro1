@@ -71,12 +71,9 @@ var $plugins =
 {"name":"GALV_DisableDash","status":false,"description":"Disable dash in your game.","parameters":{"Disable Option":"false"}},
 {"name":"Galv_ImageCache","status":true,"description":"(v.1.1) Pre-cache images that cause issues when loading during gameplay","parameters":{"Folder 1":"animations|","Folder 2":"battlebacks1|","Folder 3":"battlebacks2|","Folder 4":"characters|","Folder 5":"enemies|","Folder 6":"faces|","Folder 7":"parallaxes|","Folder 8":"pictures|","Folder 9":"sv_actors|","Folder 10":"sv_enemies|","Folder 11":"system|","Folder 12":"tilesets|","Folder 13":"titles1|","Folder 14":"titles2|","Folder 15":"","Folder 16":"menu|Menu_Base,Menu_Item,Menu_Options","Folder 17":"","Folder 18":"","Folder 19":"","Folder 20":"","Folder 21":"","Folder 22":"","Folder 23":"","Folder 24":"","Folder 25":""}},
 {"name":"DisableMouse","status":false,"description":"Disables mouse clicks.","parameters":{}},
-<<<<<<< HEAD
-=======
 {"name":"GALV_VisualNovelChoices","status":true,"description":"(v.1.6) Changes how the \"Choice\" message boxes display to appear more like visual novels.","parameters":{"Command Width":"700","Command Height":"48","Always Middle":"true","Message Gap":"20","Disabled Button":"3"}},
 {"name":"===============","status":false,"description":"","parameters":{}},
 {"name":"VNChoice_CursorFix","status":true,"description":"[Patch] Désactive le curseur vanilla quand Galv VN Choice est actif (compatible Hime WindowSkin Changer).","parameters":{}},
->>>>>>> d2f7ea8d126481192ab42e887f14d6a99bec9b74
 {"name":"===============","status":false,"description":"","parameters":{}},
 {"name":"SMRNDMDD","status":false,"description":"","parameters":{}},
 {"name":"-----------","status":false,"description":"","parameters":{}},
