@@ -7,6 +7,12 @@ MAJ :
 - [Fevrier](https://kingdo.itch.io/ouroboros/devlog/344377/fevrier)
 - [Mars](https://kingdo.itch.io/ouroboros/devlog/352442/mars)
 ------------
+
+## Install
+git clone git@github.com:Kingdo7/Ouro1.git .
+git status
+git pull
+
 ## En cours
 - Voir pourquoi le plugin "region restriction" me met des carrés noirs 
 
